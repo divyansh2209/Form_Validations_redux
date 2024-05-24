@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form{
+    height: 100%;
+}
+.input_Container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.input_Container span{
+    color:red;
+}
+
+.flex_container{
+    display: flex;
+}
